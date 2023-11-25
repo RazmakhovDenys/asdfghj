@@ -1,55 +1,60 @@
+.my {
+    width: 150px;
+    height: 100px;
+}
+
 header {
-    background-color: navy;
-    padding: 10px;
+    background-color: rgb(0, 131, 0);
 }
 
-header a {
-    color: black;
-    background-color: white;
-    font-size: 20px;
-    text-decoration: none;
-    border: 1px solid white;
-    border-radius: 10px;
-    padding: 5px;
-    margin: 10px;
-}
-
-header img {
-    width: 200px;
-    height: 60px;
+body {
+    background-color: rgb(10, 194, 65)
 }
 
 h1 {
+    font-family: fantasy;
+    border-radius: 20px;
+    border: 1px solid rgb(68, 0, 255);
+    background-color: rgb(0, 255, 0);
     text-align: center;
-    font-size: 50px;
-}
-
-h2 {
-    background-color: #2adede;
-    color: blueviolet;
-    font-size: 30px;
+    color: rgb(9, 78, 9);
 }
 
 main p {
-    font-size: 20px;
-    padding: 20px;
-    margin: 20px;
-    border: 1px solid navy;
-    border-radius: 15px;
+    color: rgb(8, 51, 8);
 }
 
-p img {
-    height: 150px;
-    width: 200px;
+h2 {
+    font-family: fantasy;
+    border-radius: 20px;
+    border: 1px solid rgb(68, 0, 255);
+    background-color: rgb(0, 255, 0);
+    text-align: center;
+    color: rgb(9, 78, 9);
 }
 
-footer {
-    background-color: #8fddf2;
-    padding: 10px;
+table {
+    font-family: cursive;
+    color: rgb(5, 71, 5);
+    border: 2px solid rgb(33, 2, 92) ;
+}
+
+td {
+   border: 2px solid rgb(33, 2, 92) ;
+}
+
+footer {  
+   background-color: rgb(11, 65, 11);
+}
+
+footer a {
+    color: honeydew;
+    text-decoration: none;
 }
 
 footer p {
-    background-color: white;
-    color: black;
-    padding: 5px;
+   color: honeydew; 
 }
+
+
+ 
